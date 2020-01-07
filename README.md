@@ -1,7 +1,7 @@
 # Lletres ballen - Amsterdam
 Fem que canviïn les mides d'ample de les columnes i l'alt de les imatges cada segón.
 
-setInterval( nomdeFunció, numDeMilisegons) és la funció que javascript ens dóna per executar una mateixa funció de manera repetida cada x milisegons. En el nostre cas, per cridar la funció canviaMides cada segón, li diem 1000 milisegons.
+`setInterval( nomdeFunció, numDeMilisegons)` és la funció que javascript ens dóna per executar una mateixa funció de manera repetida cada x milisegons. En el nostre cas, per cridar la funció canviaMides cada segón, li diem 1000 milisegons.
 ```
     setInterval( canviaMides, 1000 );
 ```
